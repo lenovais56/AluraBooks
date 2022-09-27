@@ -33,3 +33,17 @@
     font-weight: 400;
     text-align: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .banner__titulo {
+        font-size: 36px;
+    }
+
+    .banner__pesquisa {
+        width: 50%;
+    }
+
+    .banner__pesquisa::placeholder {
+        background-position: 6em;
+    }
+}
