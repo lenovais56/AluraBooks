@@ -28,3 +28,13 @@
     padding: 1em;
     text-decoration: none;
 }
+
+@media screen {
+    .topicos__titulo {
+        font-size: 24px;
+    }
+
+    .topicos__link {
+        font-size: 24px;
+    }
+}
