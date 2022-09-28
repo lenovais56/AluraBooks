@@ -71,7 +71,7 @@
                 <a href="" class="opcoes__link">Favoritos</a>
             </li>
             <li class="opcoes__item">
-                <a href="" class="opcoes__link">Minha sstante</a>
+                <a href="" class="opcoes__link">Minha estante</a>
             </li>
         </ul>
 
@@ -79,11 +79,15 @@
             <a href="#">
                 <img src="assets/img/Favoritos.svg" alt="Botão de meus favoritos" class="container__imagem container__imagem--transparente">
             </a>
-            <a href="#">
+            <a href="#" class="container__link">
                 <img src="assets/img/Compras.svg" alt="Botão do carrinho de Compras" class="container__imagem">
+                <p class="container__texto">Minha sacola</p>
+
             </a>
-            <a href="#">
+            <a href="#" class="container__link">
                 <img src="assets/img/Usuário.svg" alt="Botão do meu perfil" class="container__imagem">
+                <p class="container__texto">Meu perfil</p>
+
             </a>
         </div>        
     </header>
@@ -315,7 +319,7 @@
     <script>
         const swiper = new Swiper('.swiper', {
             spaceBetween: 10,
-            slidesPerView: 2,
+            slidesPerView: 3,
             pagination: {
                 el: '.swiper-pagination',
                  type: 'bullets',
