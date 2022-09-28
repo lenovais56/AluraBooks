@@ -20,6 +20,8 @@
 - ``HTML5``
 - ``CSS3``
 - ``Mobile-First``
+- ``Git``
+- ``GitHub``
 - ``VS code``
 
 ## 💻 Acesse o site
