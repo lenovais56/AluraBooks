@@ -11,9 +11,11 @@
 ## 🔨 Principais táticas de criação do projeto
 
 - `1` `Emmet`: Escrita agil do HTML.
-- `2` `CSS`: Desenvolvimento feito em mobile-first.
-- `3` `Menu responsivo`: Menu responsivo tipo hamburguer..
-- `4` `Responsividade`: Responsividade para telas de 320px a 1801px.
+- `2` `CSS`: Desenvolvimento feito em mobile-first e utilizando media queries.
+- `3` `Menu responsivo`: Menu responsivo tipo hamburguer.
+- `4` `Responsividade`: Responsividade para telas com largura minima de 1024px e 1728px.
+- `5` `Git e GitHub`: Commits via Git ao longo do projeto para repositório no GitHub.
+- `6` `GitHub Pages`: Projeto no ar utilizando o GitHub Pages (link abaixo).
 
 ## ✔️ Tecnologias utilizadas
 
