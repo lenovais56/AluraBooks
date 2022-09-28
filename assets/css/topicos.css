@@ -29,12 +29,26 @@
     text-decoration: none;
 }
 
-@media screen {
+@media screen and (min-width: 1024px) {
+    .topicos {
+        padding: 2em 10vw;
+    }
+    
     .topicos__titulo {
         font-size: 24px;
     }
 
     .topicos__link {
         font-size: 24px;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .topicos {
+        padding: 4em 25vw;
+    }
+    .topicos__titulo {
+        font-size: 32px;
+        padding: 0;
     }
 }
