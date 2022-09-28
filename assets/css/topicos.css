@@ -41,6 +41,12 @@
     .topicos__link {
         font-size: 24px;
     }
+
+    .topicos__link:hover {
+        color: var(--laranja);
+        font-size: 26px;
+        background: var(--branco);
+    }
 }
 
 @media screen and (min-width: 1024px) {

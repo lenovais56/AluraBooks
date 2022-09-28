@@ -21,6 +21,11 @@ hr {
         display: block;
     }
 
+    .lista__rodape--link:hover {
+        color: var(--laranja);
+        font-size: 17px;
+    }
+
     .rodape__titulo {
         font-size: 24px;
     }
