@@ -58,15 +58,7 @@
     text-transform: uppercase;
 }
 
-.container__titulo {
-    display: none;
-}
-
-.opcoes {
-    display: none;
-}
-
-.container__texto {
+.container__titulo, .opcoes, .container__texto {
     display: none;
 }
 
@@ -99,21 +91,13 @@
         color: var(--preto);
     }
 
-    .container__imagem--transparente {
-        display: none;
-    }
-
-    .cabecalho__menu--hamburguer {
+    .container__imagem--transparente, .cabecalho__menu--hamburguer, .opcoes__botao{
         display: none;
     }
 
     .opcoes__botao:checked ~ .lista__menu {
         display: block;
         width: auto;
-    }
-
-    .opcoes__botao {
-        display: none;
     }
 }
 
