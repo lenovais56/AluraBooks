@@ -1,10 +1,15 @@
 <h1 align="center" font-size="bold"> Alura Books </h1>
 
+
+<span align="center">
+  <img width="600" height="400" src="assets/img/print/alurabooks.gif">
+</span>
+
 # Resumo do projeto
 
 <p>
   
-  ``Projeto em desenvolvimento com o curso de responsividade com mobile-first``
+  ``Projeto concluído durante o curso de HTML e CSS: responsividade com mobile-first da Alura.``
 
 </p>
 
